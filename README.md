@@ -8,36 +8,29 @@
   -
   -
 
-<b>Packet Tracers</b>
+<b>Packet Tracer labs</b>
 -
 -
 
-<b>Networking, Router checklists, Switches checklist</b>
+<b>Networking: Router, Switches, Firewalls, ACLs, etc. checklist</b>
 -
 -
-
-<b>Firewalls and ACLs</b>
-  -
-  -
 
 <b>Home Labs</b>
   -
   - [Active Directory lab](https://github.com/Spoonknife429/Active-Directory-Lab)
 
 
-<b>PowerShell</b>
--
--
  
-<b>Troubleshooting Walkthroughs</b>
+<b>Troubleshooting and Walkthroughs: THM, HTB, and common issues in setups</b>
 -
 -
 
  
-<b>Python</b>
--
+<b>Scripts: PowerShell, Python, etc.</b>
+  -
 
-<b>Certifications and Tips</b>
+<b>Certifications and Tips write ups</b>
 -
 
 
