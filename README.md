@@ -23,15 +23,17 @@
 
  
 <b>Troubleshooting and Walkthroughs: THM, HTB, and common issues in setups</b>
--
--
+  -
+  - [TryHackMe-Walkthroughs](https://github.com/Spoonknife429/TryHackMe-Walkthroughs)
+  -
 
  
 <b>Scripts: PowerShell, Python, etc.</b>
   -
 
 <b>Certifications and Tips write ups</b>
--
+  -
+  - [Security+ Tips](https://github.com/Spoonknife429/Security_plus_Tips)
 
 
 <h2>Connection Options:</h2>
