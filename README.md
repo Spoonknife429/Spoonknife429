@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
   -
   -
-  -
+  
 <b>Presentations</b>
   -
   -
@@ -17,10 +17,14 @@
 -
 
 <b>Firewalls and ACLs</b>
--
--
+  -
+  -
+
 <b>Home Labs</b>
--
+  -
+  - [Active Directory lab](https://github.com/Spoonknife429/Active-Directory-Lab)
+
+
 <b>PowerShell</b>
 -
 -
